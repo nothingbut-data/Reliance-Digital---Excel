@@ -1,4 +1,4 @@
-![Reliance Digital]()
+![Reliance Digital](Reliance Digital Icon.png)
 
 # Reliance Digital: Retail Sales & Customer Insight Analysis
 
