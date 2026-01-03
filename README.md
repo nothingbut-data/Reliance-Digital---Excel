@@ -1,4 +1,4 @@
-![Reliance Digital](Reliance Digital Icon.png)
+![Reliance Digital](https://github.com/nothingbut-data/Reliance-Digital---Excel/blob/main/Reliance%20Digital%20Icon.png)
 
 # Reliance Digital: Retail Sales & Customer Insight Analysis
 
